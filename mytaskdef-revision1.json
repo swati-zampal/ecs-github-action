@@ -37,7 +37,7 @@
         }
     ],
     "cpu": "1024",
-    "enableFaultInjection": false,
+    "enableFaultInjection": true,
     "executionRoleArn": "arn:aws:iam::396608804886:role/ecsTaskExecutionRole",
     "family": "mytaskdef",
     "memory": "2048",
